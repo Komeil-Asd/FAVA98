@@ -1,0 +1,5 @@
+site_name: IT98
+theme:
+   name: material
+   language: fa
+   direction: rtl
